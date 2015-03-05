@@ -1,4 +1,4 @@
-package cn.ede.sjzc;
+package cn.edu.sjzc;
 
 public class Hello {
 
